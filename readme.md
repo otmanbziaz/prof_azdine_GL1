@@ -1,1 +1,2 @@
-"Exercice pour pratiquer l'outil git" 
+"Exercice pour pratiquer l'outil git
+Formation CIT
